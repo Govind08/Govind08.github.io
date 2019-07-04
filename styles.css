@@ -1,0 +1,51 @@
+.comment {
+ 
+  color: gray;
+  
+} 
+
+.code{
+	color: #f8f8f2;
+}
+.main{
+	color: #e6db74
+}
+.printf{
+	color: #a6e22e
+}
+.return{
+	color: #66d9ef
+}
+li{
+  line-height: 1.5
+}
+
+
+pre{
+  white-space: pre-wrap;
+    min-height: 3em;
+    overflow: hidden;
+    padding: 0.2em;
+   
+}
+div {
+  background-color:#1e2a37;
+ 
+  border: 5px solid blue;
+  padding: 10px;
+  margin: 2px;
+}
+h3{
+  font-size: 1.2em;
+text-decoration: underline;
+color: #0000FF;
+
+}
+li{
+  font-size: 1.2em;
+}
+p{
+  font-size: 1.2em;
+  line-height: 1.5;
+  font-family: Times New Roman ;
+  }
